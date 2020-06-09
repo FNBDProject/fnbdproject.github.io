@@ -1,25 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.edcfadb9.chunk.css",
-    "main.js": "/static/js/main.8e9d2bf0.chunk.js",
-    "main.js.map": "/static/js/main.8e9d2bf0.chunk.js.map",
+    "main.css": "/static/css/main.2987f0f1.chunk.css",
+    "main.js": "/static/js/main.064aa676.chunk.js",
+    "main.js.map": "/static/js/main.064aa676.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.86b9ab49.js",
     "runtime-main.js.map": "/static/js/runtime-main.86b9ab49.js.map",
-    "static/js/2.9e168b75.chunk.js": "/static/js/2.9e168b75.chunk.js",
-    "static/js/2.9e168b75.chunk.js.map": "/static/js/2.9e168b75.chunk.js.map",
+    "static/js/2.4fea4905.chunk.js": "/static/js/2.4fea4905.chunk.js",
+    "static/js/2.4fea4905.chunk.js.map": "/static/js/2.4fea4905.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.22f08220077af8609729200e1c303ae9.js": "/precache-manifest.22f08220077af8609729200e1c303ae9.js",
+    "precache-manifest.62e1b58c88b5679781e321c0d59124c2.js": "/precache-manifest.62e1b58c88b5679781e321c0d59124c2.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.edcfadb9.chunk.css.map": "/static/css/main.edcfadb9.chunk.css.map",
-    "static/js/2.9e168b75.chunk.js.LICENSE.txt": "/static/js/2.9e168b75.chunk.js.LICENSE.txt",
+    "static/css/main.2987f0f1.chunk.css.map": "/static/css/main.2987f0f1.chunk.css.map",
+    "static/js/2.4fea4905.chunk.js.LICENSE.txt": "/static/js/2.4fea4905.chunk.js.LICENSE.txt",
     "static/media/Logo.png": "/static/media/Logo.f02d2659.png",
     "static/media/accountant.png": "/static/media/accountant.b4dc9e96.png",
     "static/media/bank.png": "/static/media/bank.4344c00e.png",
     "static/media/biometric.png": "/static/media/biometric.486af252.png",
     "static/media/clock.png": "/static/media/clock.64b575f9.png",
     "static/media/contract1.png": "/static/media/contract1.372dc0b0.png",
+    "static/media/minus.png": "/static/media/minus.a145c168.png",
     "static/media/money.png": "/static/media/money.fa77c63e.png",
     "static/media/money1.png": "/static/media/money1.53ac1cdf.png",
+    "static/media/plus.png": "/static/media/plus.fca4768d.png",
+    "static/media/priceImg.png": "/static/media/priceImg.b9c55c1a.png",
     "static/media/safe-cloud.png": "/static/media/safe-cloud.8ba9b32c.png",
     "static/media/test.png": "/static/media/test.7493852f.png",
     "static/media/transfer.png": "/static/media/transfer.8ae0d143.png",
@@ -28,8 +31,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.86b9ab49.js",
-    "static/js/2.9e168b75.chunk.js",
-    "static/css/main.edcfadb9.chunk.css",
-    "static/js/main.8e9d2bf0.chunk.js"
+    "static/js/2.4fea4905.chunk.js",
+    "static/css/main.2987f0f1.chunk.css",
+    "static/js/main.064aa676.chunk.js"
   ]
 }
